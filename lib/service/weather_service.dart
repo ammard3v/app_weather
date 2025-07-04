@@ -11,7 +11,6 @@ import 'package:http/http.dart' as http;
 
 class WeatherService {
   final apiKey = dotenv.env['API_KEY'];
-
   String weatherAnimation(String condition) {
     debugPrint(condition);
     switch (condition) {
