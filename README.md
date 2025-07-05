@@ -10,6 +10,10 @@ A simple Flutter weather application built using **Clean Architecture principles
 - ✅ **Weather Animations** using [Lottie](https://pub.dev/packages/lottie)
 
 
+![weather](https://github.com/user-attachments/assets/09ba8ef2-8aac-4376-bc55-434155b1f288)
+
+
+
 
 ## ✨ Features
 
